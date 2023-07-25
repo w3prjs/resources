@@ -1,0 +1,11 @@
+[
+  {
+    "name": "mask",
+    "url": "https://tokens.r2d2.to/latest/250/tokens.json"
+  },
+  {
+    "name": "sushiSwapMenu",
+    "url": "https://token-list.sushi.com",
+    "hasMultipleChains": true
+  }
+]

@@ -1,0 +1,1 @@
+[{"name": "quickSwap", "url": "https://unpkg.com/quickswap-default-token-list@latest/build/quickswap-default.tokenlist.json"}, {"name": "sushiSwapMenu", "url": "https://token-list.sushi.com", "hasMultipleChains": true}]
