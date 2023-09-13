@@ -168,7 +168,7 @@
 
 
   "500": {
-    "category": 11,
+    "category": 10,
     "name": "Itch.io",
     "domain": "itch.io",
     "handlePrefix": "profile/"
