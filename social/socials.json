@@ -21,6 +21,8 @@
     "domain": "snapchat.com",
     "path": "add"
   },
+
+
   "50": {
     "category": 1,
     "name": "YouTube",
@@ -43,6 +45,8 @@
     "domain": "rumble.com",
     "path": "c"
   },
+
+
   "100": {
     "category": 2,
     "name": "Twitter",
@@ -54,6 +58,8 @@
     "domain": "threads.net",
     "handlePrefix": "@"
   },
+
+
   "150": {
     "category": 3,
     "name": "Github",
@@ -64,6 +70,8 @@
     "name": "Gitlab",
     "domain": "gitlab.com"
   },
+
+
   "200": {
     "category": 4,
     "name": "Spotify",
@@ -83,6 +91,8 @@
     "name": "SoundCloud",
     "domain": "soundcloud.com"
   },
+
+
   "250": {
     "category": 5,
     "name": "Telegram",
@@ -99,6 +109,8 @@
     "domain": "reddit.com",
     "handlePrefix": "r/"
   },
+
+
   "300": {
     "category": 6,
     "name": "Medium",
@@ -125,6 +137,8 @@
     "name": "Pinterest",
     "domain": "pinterest.com"
   },
+
+
   "400": {
     "category": 8,
     "name": "Unsplash",
@@ -143,16 +157,35 @@
     "domain": "pixabay.com",
     "path": "users"
   },
+
+
   "450": {
     "category": 9,
     "name": "LinkedIn",
     "domain": "linkedin.com",
-    "path": "in"
+    "handlePrefix": "in/"
   },
-  "750": {
-    "category": 10,
+
+
+  "500": {
+    "category": 11,
+    "name": "Itch.io",
+    "domain": "itch.io",
+    "handlePrefix": "profile/"
+  },
+
+
+  "900": {
+    "category": 18,
     "name": "OnlyFans",
     "domain": "onlyfans.com",
+    "nsfw": true
+  },
+  "901": {
+    "category": 18,
+    "name": "PornHub",
+    "domain": "pornhub.com",
+    "handlePrefix": "model/",
     "nsfw": true
   }
 }
