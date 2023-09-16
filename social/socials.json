@@ -88,6 +88,12 @@
   },
   "202": {
     "category": 4,
+    "name": "YouTube Music",
+    "domain": "music.youtube.com",
+    "handlePrefix": "channel"
+  },
+  "203": {
+    "category": 4,
     "name": "SoundCloud",
     "domain": "soundcloud.com"
   },
