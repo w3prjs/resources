@@ -11,5 +11,5 @@
     </mask>
   </defs>
 
-  <rect width="100%" height="100%" rx="50%" mask="url(#cutout)" />
+  <circle r="64" cx="64" cy="64" mask="url(#cutout)" />
 </svg>
