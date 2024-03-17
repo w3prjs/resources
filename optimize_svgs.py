@@ -12,5 +12,4 @@ for root, subdirs, files in os.walk(os.path.dirname(os.path.abspath(__file__))):
             os.remove(p_out)
 
         print('p_in', p_in)
-
-        subprocess.getoutput(f'svgo {p_in} -o {p_out}')
+        print(subprocess.getoutput(f'svgo --config=./svgo-config.mjs {p_in} -o {p_out}'))
